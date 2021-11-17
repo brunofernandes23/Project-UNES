@@ -1,6 +1,6 @@
-Foi criado todo o projeto, em arquivos html. Site montado em vídeo com o curso da Udemy, feito totalmente em Tabelas, apenas para aprendizado e fixagem dos conceitos HTML's iniciais.
+The entire project was created, in html files. Site set up in video with the Udemy course, made entirely in Tables, just for learning and fixing the initial HTML's concepts.
 
-Gostei bastante em aprender os conceitos básicos, pude aprender coisas que em outros cursos, em mesmo nível, não foi ensinado!! 
+I really enjoyed learning the basics, I was able to learn things that were not taught in other courses at the same level!!
 
-Link para vizualizar o site: 
+Link to view site: 
 https://upbeat-benz-ba8992.netlify.app
